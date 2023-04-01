@@ -5,7 +5,7 @@ function NotFound() {
 	return (
 		<>
 			<div>
-				Sorry the page your looking for is not found
+				Sorry the page you are looking for was not found
 			</div>
 			<Link to="/">go back to home</Link>
 		</>
